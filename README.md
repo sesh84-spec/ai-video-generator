@@ -54,21 +54,6 @@ Proxy API (Sora)
 
 ---
 
-## 📁 Структура проекта
-project/
-├── app.py # веб-интерфейс (Flask)
-├── bot.py # Telegram-бот
-├── request.py # backend-логика (работа с API)
-├── test.py # тест проверки статуса видео
-├── requirements.txt
-├── templates/
-│ └── index.html # HTML интерфейс
-├── .env.example
-├── .gitignore
-└── README.md
-
----
-
 ## ⚙️ Установка
 
 ```bash
